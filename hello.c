@@ -1,6 +1,6 @@
 #include<stdio.>
 void main()
 {
-print("hello world....!!!"):
-  
+printf("hello world....!!!"):
+  printf("\n this is a basic program");
 }
